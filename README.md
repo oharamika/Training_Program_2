@@ -1,7 +1,12 @@
+
+<a href="https://colab.research.google.com/github/ARIM-Japan/Training_Program_SEM/blob/main/Hitachi_TM3000_4000_Training.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+
 # Training_Program_SEM データ構造化事例　＃2
 
 ## 走査電子顕微鏡（SEM）のデータ構造化 
-
 
 **対応機種** ：　 日立ハイテク　TM3000, TM4000シリーズ
 **rawデータ**：　txt (テキスト形式)  
@@ -16,6 +21,3 @@ Google ColabでGitHubのコードを動かすための方法です．
 **Google Colabからではない場合には本作業はスキップ**してください．  
 
 
-<a href="https://colab.research.google.com/github/ARIM-Japan/Training_Program_SEM/blob/main/Hitachi_TM3000_4000_Training.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
