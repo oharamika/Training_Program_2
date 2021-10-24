@@ -5,13 +5,17 @@
 
 ここでは，データ構造化の処理の一つである「メタデータの抽出」の基本的な処理の流れを習得することを目指します．
 
+**対応機種** ：　 日立ハイテク　TM3000, TM4000シリーズ   
+**rawデータ**：　txt (テキスト形式)    
+
+<br>
+
 <div align="center">                                                                                                                
 <img src="https://user-images.githubusercontent.com/38028745/133568158-b10fe1c0-8024-434e-8bd6-23d71cfb6ffb.png" width = "800px">
 </div>
 
 
-**対応機種** ：　 日立ハイテク　TM3000, TM4000シリーズ 
-**rawデータ**：　txt (テキスト形式)    
+
 
 <hr>
 
