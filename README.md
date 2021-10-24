@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/38028745/133568158-b10fe1c0-8024-434e-8bd6-23d71cfb6ffb.png" width = "800px">
 </div>
 
-<br>
+
 **対応機種** ：　 日立ハイテク　TM3000, TM4000シリーズ 
 **rawデータ**：　txt (テキスト形式)    
 
